@@ -22,11 +22,18 @@ describe('UI Contorls', async ()=> {
         await $$(".customradio")[0].$("span").click();
         await expect(modal).not.toBeDisabled();
 
-        let dropDown = await $("select.form-control").selectByAttribute('value', 'teach');
+        let dropDown = await $("select.form-control");
+
+        await dropDown.selectByAttribute('value', 'teach');
         // await dropDown.selectByAttribute('value', 'teach');
 
         // dropDown.selectByVisibaleText('Consultant');
-        dropDown.selectByVisibleText("Consultant")
+
+        await dropDown.selectByVisibleText("Consultant");
+
+        await dropDown.selectByIndex(0);
+        await browser.pause(1000);
+        console.log(await dropDown.getValue());
     });
 
 

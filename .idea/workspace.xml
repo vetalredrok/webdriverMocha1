@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ad872b8-7e7f-41e3-8c8b-910946ad2b92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/webdriverio.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/specs/firstTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/specs/uiControls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webdriver mocha1.iml" afterDir="false" />
+    <list default="true" id="1ad872b8-7e7f-41e3-8c8b-910946ad2b92" name="Changes" comment="first">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/specs/uiControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/specs/uiControls.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +64,16 @@
       <workItem from="1671654602258" duration="10736000" />
       <workItem from="1671995901489" duration="8326000" />
       <workItem from="1672084323013" duration="8237000" />
-      <workItem from="1672092649926" duration="1490000" />
+      <workItem from="1672092649926" duration="3380000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1672095255026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672095255026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +89,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
